@@ -1,16 +1,34 @@
-### Hi there 👋
+### Hello friends! 👋
 
 <!--
 **delirius325/delirius325** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
-
 - 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+-  JMeter Live Changes Config; a REST API that's spun up upon test execution allowing the consumer to interact with JMeter live.
+-  Other non-public-yet projects :smile:
+
+---
+
+- 🌱 I’m currently learning
+- Golang
+- Rust
+- And deepening my knowledge on networking as I feel like that's one of my weaknesses :yikes:
+
+---
+
+- 👯 I’m looking to collaborate on 
+- Anything performance related is always fun :smile:
+- I also enjoy pretty much anything in what I see value/usefulness or just straight out find really neat (regardless of the tech stack).
+
+---
+
+- 📫 How to reach me: 
+- I'm reachable through email and LinkedIn
+- anthony.gauthier325@gmail.com
+- https://www.linkedin.com/in/anthonygau/
+
+---
+
+- ⚡ Fun fact: 
+- I'm a huge gamer (WoW, Valorant, CSGO), I tend to be very competitive .. Probably comes from my sports background haha!
+- Father of two, soon to be three :smile:
