@@ -22,4 +22,4 @@
 
 #### ⚡ Fun fact: 
 - I'm a huge gamer (WoW, Valorant, CSGO), I tend to be very competitive .. Probably comes from my sports background haha!
-- Father of two, soon to be three :smile:
+- Father of three
